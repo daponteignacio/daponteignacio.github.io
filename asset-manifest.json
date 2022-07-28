@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8051734f.css",
+    "main.js": "/static/js/main.e5b5257d.js",
+    "static/media/background.jpg": "/static/media/background.2b3e708f36c2e76f1fe3.jpg",
+    "static/media/foto2.jpg": "/static/media/foto2.019408bc70c1df470976.jpg",
+    "static/media/heroapp.jpg": "/static/media/heroapp.f9e28b790672a610d22b.jpg",
+    "static/media/blog.jpg": "/static/media/blog.081e941140d053f0c501.jpg",
+    "static/media/miniapps.jpg": "/static/media/miniapps.41a5605b337b1fce3b6a.jpg",
+    "static/media/journal.jpg": "/static/media/journal.1f59f2eda3827e516e55.jpg",
+    "static/media/ecommerce.jpg": "/static/media/ecommerce.d7ccfdc4c135c9fc3460.jpg",
+    "static/media/ignacio-daponte-cv-es.pdf": "/static/media/ignacio-daponte-cv-es.bcd200e29a3d79a398be.pdf",
+    "static/media/bandnames.jpg": "/static/media/bandnames.1d39fafa4cce147085eb.jpg",
+    "static/media/foto1.svg": "/static/media/foto1.e3b5648e4dd7a4c8d0c16eb9c2dbf938.svg",
+    "index.html": "/index.html",
+    "main.8051734f.css.map": "/static/css/main.8051734f.css.map",
+    "main.e5b5257d.js.map": "/static/js/main.e5b5257d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8051734f.css",
+    "static/js/main.e5b5257d.js"
+  ]
+}
